@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A96F67CB-CF4C-45AD-955B-6BE61439C528"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5881867B-7A4B-4D53-9A60-2F979834DC38"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TimelapseModule/Scenes/Video Record/Controllers/VideoRecordViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "saveVideoToCameraRoll(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D138563-6568-4144-A87E-22F1F2E4194D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TimelapseModule/Scenes/Video Record/Controllers/VideoRecordViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "saveVideoToCameraRoll(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D138563-6568-4144-A87E-22F1F2E4194D - af809162388a4097"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TimelapseModule.VideoRecordViewController.saveVideoToCameraRoll(url: Foundation.URL) -&gt; ()"
+                  moduleName = "TimelapseModule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrearns/Development/swift/TimelapseModule/TimelapseModule/Scenes/Video%20Record/Controllers/VideoRecordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "6D138563-6568-4144-A87E-22F1F2E4194D - 8b19446ee7c0e11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TimelapseModule.VideoRecordViewController.saveVideoToCameraRoll(url: Foundation.URL) -&gt; ()"
+                  moduleName = "TimelapseModule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrearns/Development/swift/TimelapseModule/TimelapseModule/Scenes/Video%20Record/Controllers/VideoRecordViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
